@@ -1,0 +1,73 @@
+[
+{
+
+  "id":0,
+  "title":"quick view",
+  "name":"Long red Shirt",
+  "image":"img/products/1.jpg",
+  "sum":"$39.90"
+
+},
+{
+
+  "id":1,
+  "title":"quick view",
+  "name":"Hype grey shirt",
+    "image":"img/products/2.jpg",
+  "sum":"$19.50"
+
+},
+{
+
+  "id":2,
+  "title":"quick view",
+  "name":"long sleeve jacket",
+    "image":"img/products/3.jpg",
+  "sum":"$59.90"
+
+},{
+
+  "id":3,
+  "title":"quick view",
+  "name":"Denim men shirt",
+    "image":"img/products/4.jpg",
+  "sum":"$32.20 <RRP 64.40"
+
+}
+,{
+
+  "id":4,
+  "title":"quick view",
+  "name":"Long red Shirt",
+    "image":"img/products/5.jpg",
+  "sum":"$39.90"
+
+}
+,{
+
+  "id":5,
+  "title":"quick view",
+  "name":"Hype grey shirt",
+    "image":"img/products/6.jpg",
+  "sum":"$19.50"
+
+}
+,{
+
+  "id":6,
+  "title":"quick view",
+  "name":"long sleeve jacket",
+    "image":"img/products/7.jpg",
+  "sum":"$59.90"
+
+}
+,{
+
+  "id":7,
+  "title":"quick view",
+  "name":"Denim men shirt",
+    "image":"img/products/8.jpg",
+  "sum":"$32.20   RRP 64.40"
+
+}
+]
